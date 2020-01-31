@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bce630-c2cb-49a5-8c88-30390f2bea85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decoratorPattern/tomato.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decoratorPattern/here.py" beforeDir="false" afterPath="$PROJECT_DIR$/decoratorPattern/here.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decoratorPattern/margherita.py" beforeDir="false" afterPath="$PROJECT_DIR$/decoratorPattern/margherita.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decoratorPattern/mozzarella.py" beforeDir="false" afterPath="$PROJECT_DIR$/decoratorPattern/mozzarella.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decoratorPattern/pepperoni.py" beforeDir="false" afterPath="$PROJECT_DIR$/decoratorPattern/pepperoni.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decoratorRun.py" beforeDir="false" afterPath="$PROJECT_DIR$/decoratorRun.py" afterDir="false" />
-    </list>
+    <list default="true" id="b5bce630-c2cb-49a5-8c88-30390f2bea85" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
