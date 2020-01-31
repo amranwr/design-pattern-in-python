@@ -1,3 +1,4 @@
 from decoratorPattern.margherita import Margherita
 from decoratorPattern.mozzarella import Mozzarella
+from decoratorPattern.tomato import Tomato
 from decoratorPattern.pepperoni import Pepperoni

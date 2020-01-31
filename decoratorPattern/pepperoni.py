@@ -8,7 +8,7 @@ class Pepperoni(Pizza):
         self.__price = 6
 
     def display(self):
-        print("pizza pepperoni ")
+        return "pizza pepperoni "
 
     def price(self):
         return self.__price

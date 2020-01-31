@@ -7,8 +7,7 @@ class Mozzarella(ToppingDecorator):
         self.money = 3
 
     def display(self):
-        self.obj_pizza.display()
-        print("+mozzarella ")
+        return self.obj_pizza.display() +"+mozzarella "
 
     def price(self):
         return (self.obj_pizza.price() + self.money)
