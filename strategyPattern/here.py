@@ -1,0 +1,2 @@
+from strategyPattern.superman import Superman
+from strategyPattern.spiderman import Spiderman
