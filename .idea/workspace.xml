@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bce630-c2cb-49a5-8c88-30390f2bea85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/strategyPattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/fire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/here.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/ice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/spiderman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/superPower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyPattern/superman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategyRun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/AbstractFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/cloth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/clothes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/greenShirt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/here.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/jeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/trousersFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/tshirtFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactory/whiteShirt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactoryRun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.strategyRun">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.abstractfactoryRun">
+    <configuration name="abstractfactoryRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practicing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/factoryPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factoryPattern/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstractfactoryRun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.abstractfactoryRun" />
         <item itemvalue="Python.strategyRun" />
         <item itemvalue="Python.decoratorRun" />
         <item itemvalue="Python.sample" />
         <item itemvalue="Python.asfora" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
