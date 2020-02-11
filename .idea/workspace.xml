@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bce630-c2cb-49a5-8c88-30390f2bea85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abstractFactory/AbstractFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/cloth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/clothes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/greenShirt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/here.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/jeans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/trousersFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/tshirtFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractFactory/whiteShirt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstractfactoryRun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/milkshop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singltonRun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.abstractfactoryRun">
+  <component name="RunManager" selected="Python.singltonRun">
     <configuration name="abstractfactoryRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practicing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,27 +54,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstractfactoryRun.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="asfora" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practicing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/observerPattern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/observerPattern/asfora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +104,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="singltonRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practicing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/singltonRun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="strategyRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practicing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.singltonRun" />
         <item itemvalue="Python.abstractfactoryRun" />
         <item itemvalue="Python.strategyRun" />
         <item itemvalue="Python.decoratorRun" />
         <item itemvalue="Python.sample" />
-        <item itemvalue="Python.asfora" />
       </list>
     </recent_temporary>
   </component>
