@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bce630-c2cb-49a5-8c88-30390f2bea85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/singleton/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/milkshop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singltonRun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/garageDoor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/garageDoorClose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/garageDoorOpen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/light.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/lightOff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/ligtOn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/noCommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/remote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/waterOff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/waterOn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPatternRun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.singltonRun">
+  <component name="RunManager" selected="Python.commandPatternRun">
     <configuration name="abstractfactoryRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practicing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decoratorRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="commandPatternRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practicing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decoratorRun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commandPatternRun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="remote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practicing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/commandPatter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commandPatter/remote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.commandPatternRun" />
+        <item itemvalue="Python.remote" />
         <item itemvalue="Python.singltonRun" />
         <item itemvalue="Python.abstractfactoryRun" />
         <item itemvalue="Python.strategyRun" />
-        <item itemvalue="Python.decoratorRun" />
-        <item itemvalue="Python.sample" />
       </list>
     </recent_temporary>
   </component>
